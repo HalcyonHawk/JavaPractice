@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Circle
+comment1.params=center\ radius
+comment1.target=Circle(Vector,\ double)
+comment2.params=
+comment2.target=double\ getDiameter()
+comment3.params=
+comment3.target=double\ getArea()
+comment4.params=point
+comment4.target=boolean\ contains(Vector)
+comment5.params=
+comment5.target=Rectangle\ boundingBox()
+numComments=6
